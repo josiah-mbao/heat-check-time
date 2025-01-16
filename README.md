@@ -40,14 +40,15 @@ npm run build
 ```
 
 Acknowledgments 🙌
-	•	Inspired by the concept of a “heat check” in basketball. It's heat check time!! 🏀
-	•	Trying to foster a growth mindset by picking up frontend tools.
+
+- Inspired by the concept of a “heat check” in basketball. It's heat check time!! 🏀
+- Trying to foster a growth mindset by picking up frontend tools.
 
 
 Contact 📧
 
 Feel free to reach out if you have questions or suggestions:
-	•	GitHub: josiah-mbao
-	•	Email: josiahmbaomc@gmail.com
+- GitHub: josiah-mbao
+- Email: josiahmbaomc@gmail.com
 
 JuiceWrld
